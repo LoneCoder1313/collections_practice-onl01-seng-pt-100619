@@ -28,5 +28,9 @@ def #sort_array_asc(numbers)
        end 
      end 
      
-      
-      
+      array = ["blake", "ashley", "scott"]
+      def #kesha_maker(array)
+        do kesha_maker(array).each |array|
+        #expect 3rd character of each element to be a dollar sign.
+        #expect (kesha_maker(["blake", "ashley", "scott").to eq(["bl$ke", "as$ley", "sc$tt"])
+        puts [""]
